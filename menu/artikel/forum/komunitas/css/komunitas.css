@@ -1,0 +1,92 @@
+.main-container {
+    width: 667px;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    padding-top: 45px;
+    margin-left: 100px;
+}
+
+.reply-doctor-button-container {
+    float: right;
+    display: inline-block;
+}
+
+.back-to-community-text {
+    margin-left: 12px;
+}
+
+.box {
+    margin-top: 35px;
+}
+
+html, body {
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #3b3738;
+    line-height: 1.44;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  .profile-avatar {
+    border-radius: 50%;
+    background-color: #e6e6e6;
+    width: 56px;
+    height: 56px;
+    background-size: cover;
+    vertical-align: middle;
+    line-height: 56px;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    margin-right: 15px;
+}
+
+.user-topic-info {
+    height: 55px;
+    margin-bottom: 22px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.user-topic-title {
+    float: left;
+    width: 429px;
+    padding-top: 8px;
+}
+
+div {
+    display: block;
+}
+
+.user-topic-btm {
+    display: inline-block;
+    width: 561px;
+    overflow-wrap: break-word;
+}
+
+.doctor-topic-info{
+    justify-content: space-between;
+
+}
+
+.doctor-topic{
+    padding-top: 25px;
+    padding-left: 15px;
+    justify-content: space-between;
+}
+
+.content-container{
+    padding-left: 10px;
+}
+
+
+
