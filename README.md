@@ -5,10 +5,10 @@ Tugas besar untuk mata kuliah Studium Generale. Website ini merupakan pengembang
 
 1. SignUp dan Login
 2. Menu Artikel
-   a. Informasi Mengenai Covid-19
-   b. Informasi Kesehatan
-   c. Podcast
-   d. Forum
+   * Informasi Mengenai Covid-19
+   * Informasi Kesehatan
+   * Podcast
+   * Forum
 3. Menu Kalkulator Kesehatan
    * Kalkulator Pembakaran Kalori Pada Setiap Kegiatan
    * Kalkulator Menghitung Body Mass Index (BMI)
