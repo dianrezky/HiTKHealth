@@ -10,22 +10,22 @@ Tugas besar untuk mata kuliah Studium Generale. Website ini merupakan pengembang
    c. Podcast
    d. Forum
 3. Menu Kalkulator Kesehatan
-   a. Kalkulator Pembakaran Kalori Pada Setiap Kegiatan
-   b. Kalkulator Menghitung Body Mass Index (BMI)
-   c. Kalkulator Menghitung Kalori Yang Dibutuhkan Oleh Tubuh (BMR)
-   d. Kalkulator Menghitung Detak Jantung
-   e. Kalkulator Untuk Kehamilan
+   * Kalkulator Pembakaran Kalori Pada Setiap Kegiatan
+   * Kalkulator Menghitung Body Mass Index (BMI)
+   * Kalkulator Menghitung Kalori Yang Dibutuhkan Oleh Tubuh (BMR)
+   * Kalkulator Menghitung Detak Jantung
+   * Kalkulator Untuk Kehamilan
       - Kalkulator Usia Kehamilan
       - Kalkulator BMI
       - Kalkulator Perkiraan Kehamilan
-   f. Kalkulator Untuk Wanita
+   * Kalkulator Untuk Wanita
 4. Menu Referensi
-   a. Daftar Kalori Setiap Kegiatan
-   b. Daftar Kalori Setiap Makanan dan Minuman
-   c. Daftar Obat
-   d. Daftar Penyakit
-   e. Daftar Rumah Sakit
-   f. Daftar Rumus Yang Digunakan Untuk Perhitungan
+   * Daftar Kalori Setiap Kegiatan
+   * Daftar Kalori Setiap Makanan dan Minuman
+   * Daftar Obat
+   * Daftar Penyakit
+   * Daftar Rumah Sakit
+   * Daftar Rumus Yang Digunakan Untuk Perhitungan
 5. Menu Konsultasi
-   a. Analisa Gejala Penyakit
-   b. Konsultasi Dengan Dokter
+   * Analisa Gejala Penyakit
+   * Konsultasi Dengan Dokter
